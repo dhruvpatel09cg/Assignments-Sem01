@@ -61,3 +61,20 @@
 <img width="1200" height="1600" alt="GH01 A3 Q12" src="https://github.com/user-attachments/assets/a008f0b1-8af4-4136-a06d-d5863f16e054" />
 
 ---
+
+### Assignment 4: Why Git is the Most Popular VCS
+
+**Objective:** Understand the reasons behind Git’s popularity.
+
+**Tasks:**
+1. Who created Git and in which year?
+2. List **any 6 reasons** why Git became the most popular Version Control System.
+3. Explain the following points in your own words (3–4 lines each):
+   - Distributed nature of Git
+   - Powerful branching
+   - Speed of Git
+4. Name any 3 platforms that work with Git (example: GitHub).
+
+**Answers:** 
+
+---
