@@ -14,3 +14,19 @@
 <img width="1075" height="1600" alt="GH01 A1 Q234" src="https://github.com/user-attachments/assets/29666961-20a4-48c9-bd23-e829d6d53b6e" />
 
 ---
+### Assignment 2: Types of Version Control Systems
+
+**Objective:** Understand the three types of VCS with examples and diagrams.
+
+**Tasks:**
+1. Explain the following with **simple diagrams** (hand-drawn or digital):
+   - Local Version Control System
+   - Centralized Version Control System (CVCS)
+   - Distributed Version Control System (DVCS)
+2. Give **2 examples** of each type.
+3. Write **2 advantages and 2 disadvantages** of each type.
+4. Which type is Git? Justify your answer in 3–4 lines.
+
+**Answers** Diagrams + written explanation
+
+---
