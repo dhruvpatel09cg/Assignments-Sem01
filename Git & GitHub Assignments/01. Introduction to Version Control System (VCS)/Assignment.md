@@ -1,4 +1,4 @@
-### Assignment 1: Understanding the Need for VCS
+<img width="1200" height="1600" alt="GH01 A2 Q23" src="https://github.com/user-attachments/assets/696b02c0-b928-4d72-9b2a-2a03734401fe" />### Assignment 1: Understanding the Need for VCS
 
 **Objective:** Explain why Version Control is required.
 
@@ -27,6 +27,11 @@
 3. Write **2 advantages and 2 disadvantages** of each type.
 4. Which type is Git? Justify your answer in 3–4 lines.
 
-**Answers** Diagrams + written explanation
+**Answers** 
+
+<img width="1024" height="597" alt="GH01 A2 Q1" src="https://github.com/user-attachments/assets/1b95a870-0b01-4553-bd4b-fbc5e390528d" />
+<img width="1200" height="1600" alt="GH01 A2 Q23" src="https://github.com/user-attachments/assets/581c8463-bdb2-462c-a675-f349d0661557" />
+<img width="1200" height="1600" alt="GH01 A2 Q34" src="https://github.com/user-attachments/assets/be194ab3-66dd-4b81-a318-4fbc0a213de7" />
+
 
 ---
