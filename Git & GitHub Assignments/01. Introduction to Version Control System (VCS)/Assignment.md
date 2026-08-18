@@ -1,4 +1,3 @@
-<img width="1200" height="1600" alt="GH01 A2 Q23" src="https://github.com/user-attachments/assets/696b02c0-b928-4d72-9b2a-2a03734401fe" />### Assignment 1: Understanding the Need for VCS
 
 **Objective:** Explain why Version Control is required.
 
