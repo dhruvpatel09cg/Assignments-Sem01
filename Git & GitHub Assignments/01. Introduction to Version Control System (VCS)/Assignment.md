@@ -56,6 +56,8 @@
    - Why is Distributed VCS considered better than Centralized VCS for modern teams?
    - What is the biggest disadvantage of Centralized VCS?
 
-**Submission:** Completed table + answers
+**Answers**
+
+<img width="1200" height="1600" alt="GH01 A3 Q12" src="https://github.com/user-attachments/assets/a008f0b1-8af4-4136-a06d-d5863f16e054" />
 
 ---
