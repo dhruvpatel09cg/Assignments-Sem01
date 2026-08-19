@@ -96,3 +96,7 @@
 
 **Answers** 
 
+<img width="1571" height="1536" alt="GH01 A5 Q12" src="https://github.com/user-attachments/assets/b68699f2-dec4-4243-9bf3-9dc5615f9817" />
+
+<img width="1600" height="1295" alt="GH01 A5 Q34" src="https://github.com/user-attachments/assets/220dcf13-a9d6-4190-98ff-e8d8117d5a85" />
+
