@@ -98,6 +98,8 @@
    - VS Code is a popular ______.
    - A ______ is a storage space for project files and history.
 
+<img width="1600" height="655" alt="GH02 A5 Q1" src="https://github.com/user-attachments/assets/c651c541-72dc-46e8-b1c0-6e47c48e3c9b" />
+
 2. Answer in 3–5 lines each:
    - Can we use Git without GitHub? Explain.
    - Can we use GitHub without Git? Explain.
@@ -105,6 +107,7 @@
 
 3. Write **4 key takeaways** from Day 2.
 
-**Submission:** Written answers
+**Answers:** 
+<img width="1200" height="1600" alt="GH02 A5 Q23" src="https://github.com/user-attachments/assets/93765ba1-7df2-47c7-95db-cbbcebd36ed9" />
 
 ---
