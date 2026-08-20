@@ -32,3 +32,22 @@
 <img width="1600" height="1200" alt="GH02 A2 Q45" src="https://github.com/user-attachments/assets/5ab0e5c5-4202-4c45-85dc-1972950d589b" />
 
 ---
+
+### Assignment 3: VS Code Overview
+
+**Objective:** Get familiar with the VS Code interface.
+
+**Tasks:**
+1. Open VS Code and identify the following parts (take screenshots):
+   - Activity Bar
+   - Side Bar (Explorer)
+   - Editor Area
+   - Terminal Panel
+   - Status Bar
+2. How do you open the **Terminal** inside VS Code? Write the shortcut.
+3. Write 4 important features you noticed in VS Code.
+4. Why is having a terminal inside VS Code useful for Git?
+
+**Answers:** Screenshots + written answers
+
+---
