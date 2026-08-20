@@ -40,10 +40,20 @@
 **Tasks:**
 1. Open VS Code and identify the following parts (take screenshots):
    - Activity Bar
+     <img width="21" height="416" alt="Activitybar" src="https://github.com/user-attachments/assets/3bd78ea6-0757-45fd-a8fc-0a45a9c571ad" />
+
    - Side Bar (Explorer)
+     <img width="147" height="430" alt="Sidebar" src="https://github.com/user-attachments/assets/dc073f36-1e4d-42c2-b2e8-9be6e741a695" />
+
    - Editor Area
+     <img width="547" height="274" alt="Editor Area" src="https://github.com/user-attachments/assets/23a2e6fb-2cab-4d94-9041-302dcef4cab2" />
+
    - Terminal Panel
+     <img width="550" height="160" alt="Terminal panel" src="https://github.com/user-attachments/assets/c4ae3f16-4331-4fb2-8b44-d8c0749e8495" />
+
    - Status Bar
+     <img width="715" height="22" alt="Statusbar" src="https://github.com/user-attachments/assets/213c3984-cf66-42f2-aaac-73f60af1fc78" />
+
 2. How do you open the **Terminal** inside VS Code? Write the shortcut.
 3. Write 4 important features you noticed in VS Code.
 4. Why is having a terminal inside VS Code useful for Git?
