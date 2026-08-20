@@ -81,6 +81,30 @@
    - Your newly created repository
    - Your GitHub profile (showing the contribution calendar)
 
-**Answers:** Screenshots + written answers
+**Answers:** 
+<img width="1600" height="1200" alt="GH02 A4 Q34" src="https://github.com/user-attachments/assets/d5d2e9aa-32b2-416d-8ed5-cff32de5692a" />
+<img width="936" height="296" alt="Contribution calander" src="https://github.com/user-attachments/assets/dc381932-c7e6-4711-ac97-a902da6b00e2" />
+<img width="934" height="357" alt="day2_practice" src="https://github.com/user-attachments/assets/ef672b42-9c9b-4e84-87b8-ec047951b429" />
+
+---
+### Assignment 5: Conceptual Clarity + Reflection
+
+**Objective:** Check overall understanding of Day 2.
+
+**Tasks:**
+1. Fill in the blanks:
+   - Git is a ______ Version Control System.
+   - GitHub is a ______ platform to host repositories.
+   - VS Code is a popular ______.
+   - A ______ is a storage space for project files and history.
+
+2. Answer in 3–5 lines each:
+   - Can we use Git without GitHub? Explain.
+   - Can we use GitHub without Git? Explain.
+   - Why do we need a proper Development Environment?
+
+3. Write **4 key takeaways** from Day 2.
+
+**Submission:** Written answers
 
 ---
