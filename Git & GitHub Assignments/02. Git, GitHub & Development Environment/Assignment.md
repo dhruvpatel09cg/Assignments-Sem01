@@ -58,6 +58,29 @@
 3. Write 4 important features you noticed in VS Code.
 4. Why is having a terminal inside VS Code useful for Git?
 
+**Answers:** 
+<img width="1600" height="1200" alt="GH02 A3 Q23" src="https://github.com/user-attachments/assets/d8be8c2e-d260-4a04-91e5-19c327b2c05b" />
+
+<img width="1600" height="524" alt="GH02 A3 Q4" src="https://github.com/user-attachments/assets/36c78457-3144-4a20-b81f-9a85f921344e" />
+
+---
+### Assignment 4: GitHub Overview (Practical)
+
+**Objective:** Explore GitHub and create a repository.
+
+**Tasks:**
+1. Login to your GitHub account.
+2. Create a new public repository with the name `Day2_Practice`.
+3. Answer the following:
+   - What is a **Repository**?
+   - What is the difference between a Local Repository and a Remote Repository?
+4. Explore your GitHub profile and write what you see in:
+   - Profile section
+   - Contribution Calendar (green boxes)
+5. Take a screenshot of:
+   - Your newly created repository
+   - Your GitHub profile (showing the contribution calendar)
+
 **Answers:** Screenshots + written answers
 
 ---
