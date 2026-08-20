@@ -87,3 +87,37 @@ Perform the following in Git Bash and write the exact commands:
 **Submission:** Commands list + answers
 
 ---
+
+**Objective:** Test overall understanding of Day 3 commands.
+
+**Tasks:**
+1. Match the following:
+
+| Command     | Purpose                          |
+|-------------|----------------------------------|
+| `pwd`       |                                  |
+| `ls -la`    |                                  |
+| `mkdir`     |                                  |
+| `touch`     |                                  |
+| `cat`       |                                  |
+| `mv`        |                                  |
+| `rm -r`     |                                  |
+| `clear`     |                                  |
+| `whoami`    |                                  |
+| `history`   |                                  |
+
+2. Write the correct command for the following actions:
+   - Create an empty file
+   - Show current date and time
+   - Clear the terminal screen
+   - Show previously used commands
+   - Go back to the previous directory
+
+3. Write **4 key takeaways**
+
+**Submission:** Written answers
+
+---
+<img width="2485" height="2266" alt="IMG_20260820_220811" src="https://github.com/user-attachments/assets/173db3ff-719a-439a-80eb-1c1e196a16cc" />
+<img width="2003" height="2997" alt="IMG_20260820_220931" src="https://github.com/user-attachments/assets/aecca5ba-1bed-428c-abe0-989548cb34f4" />
+<img width="2562" height="1594" alt="IMG_20260820_221014" src="https://github.com/user-attachments/assets/649a0d6f-a2a9-4885-964b-2a2c85bcfa0d" />
