@@ -29,6 +29,35 @@
    - Git Bash showing `git --version` output
    - VS Code terminal showing Git Bash is selected
 
-**Submission:** Written answers + Screenshots
+**Answers:** 
+<img width="1536" height="1402" alt="GH03 A2 Q123" src="https://github.com/user-attachments/assets/aaa0fa23-b5bc-477a-bdcb-63ec662b0bce" />
+<img width="197" height="107" alt="git --version" src="https://github.com/user-attachments/assets/53d6c616-6fb5-4480-a45f-aa7d6ceb77ed" />
+<img width="467" height="54" alt="GitBash default" src="https://github.com/user-attachments/assets/7cb22517-7706-4032-94ff-1099cd3c9f13" />
+
+---
+### Assignment 3: Navigation & Listing Commands (Practical)
+
+**Objective:** Practice everyday navigation commands.
+
+**Tasks:**
+1. Open Git Bash and perform the following (write the commands you used):
+   - Check your current location
+   - Go to your home directory
+   - Create a folder named `Day3_Practice`
+   - Move into that folder
+   - Create two files: `file1.txt` and `file2.txt`
+   - List all files
+   - List all files including hidden ones in long format
+   - Move one level up
+   - Come back into `Day3_Practice` folder
+
+2. Write the purpose of these commands:
+   - `pwd`
+   - `cd ~`
+   - `cd ..`
+   - `cd -`
+   - `ls -la`
+
+**Submission:** List of commands used + short answers
 
 ---
