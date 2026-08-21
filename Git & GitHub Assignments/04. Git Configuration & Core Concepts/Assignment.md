@@ -93,5 +93,21 @@ Fill in the missing stages and the commands used at each step.
 3. Write 4 key points you learned in Day 4.
 
 **Answers:** 
+<img width="1096" height="1492" alt="GH04 A4 Q12" src="https://github.com/user-attachments/assets/ef4dae9c-f26d-4abe-9369-7f596edb38e6" />
+<img width="1600" height="900" alt="GH04 A4 Q3" src="https://github.com/user-attachments/assets/a514b372-e92b-4fa9-a742-ea4cc36c2165" />
+
+---
+### Assignment 5: Reflection + Real-life Understanding
+
+**Objective:** Connect concepts to real usage.
+
+**Tasks:**
+1. Why is it important to set `user.name` and `user.email` before making commits?
+2. In a team project of 4 students, why is using branches helpful?
+3. When would you use **Fork** instead of **Clone**?
+4. Explain the following sentence in your own words:  
+   “Commit happens locally, Push happens to remote.”
+
+**Answers:** 
 
 ---
