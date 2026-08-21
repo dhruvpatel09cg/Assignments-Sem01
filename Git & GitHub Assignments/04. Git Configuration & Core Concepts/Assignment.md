@@ -40,5 +40,30 @@
 3. What is the difference between **Local Repository** and **Remote Repository**?
 
 **Answers:** 
+<img width="600" height="800" alt="GH04 A2 Q1" src="https://github.com/user-attachments/assets/6ab57771-3fb5-4b75-91b7-8c3cb4bf982e" />
+<img width="800" height="510" alt="GH04 A2 Q23" src="https://github.com/user-attachments/assets/da44547f-105b-4ebb-a43f-9048d2d9e93d" />
+
+---
+### Assignment 3: Local vs Remote + Flow
+
+**Objective:** Understand the movement of code in Git.
+
+**Tasks:**
+1. Create a comparison table between **Local Repository** and **Remote Repository** with at least 4 points.
+
+2. Draw or write the basic Git flow:
+
+```
+Working Directory → ? → ? → Remote Repository
+```
+
+Fill in the missing stages and the commands used at each step.
+
+3. Answer:
+   - Where does `git add` move the files?
+   - Where does `git commit` save the changes?
+   - Does `git commit` upload code to GitHub? Explain.
+
+**Answers:** 
 
 ---
