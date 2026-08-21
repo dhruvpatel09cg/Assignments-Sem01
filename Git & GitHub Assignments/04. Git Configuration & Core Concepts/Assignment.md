@@ -109,5 +109,6 @@ Fill in the missing stages and the commands used at each step.
    “Commit happens locally, Push happens to remote.”
 
 **Answers:** 
+<img width="1545" height="1600" alt="WhatsApp Image 2026-08-21 at 6 56 24 PM" src="https://github.com/user-attachments/assets/ba8d6b25-effb-47b3-8654-2489ad1f8ef1" />
 
 ---
