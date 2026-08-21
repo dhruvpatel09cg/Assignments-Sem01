@@ -14,7 +14,7 @@
 5. Give 2 examples of GUI and 2 examples of CLI.
 
 **Answers:** 
-<img width="1068" height="1600" alt="GH03 A1 Q12345" src="https://github.com/user-attachments/assets/e04028b7-f352-48c8-8d72-86aed25ed5d9" />
+<img width="534" height="800" alt="GH03 A1 Q12345" src="https://github.com/user-attachments/assets/e04028b7-f352-48c8-8d72-86aed25ed5d9" />
 
 ---
 ### Assignment 2: Git Installation & VS Code Setup
@@ -30,9 +30,9 @@
    - VS Code terminal showing Git Bash is selected
 
 **Answers:** 
-<img width="1536" height="1402" alt="GH03 A2 Q123" src="https://github.com/user-attachments/assets/aaa0fa23-b5bc-477a-bdcb-63ec662b0bce" />
-<img width="197" height="107" alt="git --version" src="https://github.com/user-attachments/assets/53d6c616-6fb5-4480-a45f-aa7d6ceb77ed" />
-<img width="467" height="54" alt="GitBash default" src="https://github.com/user-attachments/assets/7cb22517-7706-4032-94ff-1099cd3c9f13" />
+<img width="768" height="701" alt="GH03 A2 Q123" src="https://github.com/user-attachments/assets/aaa0fa23-b5bc-477a-bdcb-63ec662b0bce" />
+<img width="492.5" height="267.5" alt="git --version" src="https://github.com/user-attachments/assets/53d6c616-6fb5-4480-a45f-aa7d6ceb77ed" />
+<img width="800" height="150" alt="GitBash default" src="https://github.com/user-attachments/assets/7cb22517-7706-4032-94ff-1099cd3c9f13" />
 
 ---
 ### Assignment 3: Navigation & Listing Commands (Practical)
@@ -59,8 +59,8 @@
    - `ls -la`
 
 **Answers:** 
-<img width="1600" height="900" alt="GH03 A3 Q1" src="https://github.com/user-attachments/assets/f74529a5-5fed-4287-922c-7824ae4cc33a" />
-<img width="1600" height="900" alt="GH03 A3 Q2" src="https://github.com/user-attachments/assets/31a80da8-9150-4a5f-ab85-4999babc87f6" />
+<img width="800" height="450" alt="GH03 A3 Q1" src="https://github.com/user-attachments/assets/f74529a5-5fed-4287-922c-7824ae4cc33a" />
+<img width="800" height="450" alt="GH03 A3 Q2" src="https://github.com/user-attachments/assets/31a80da8-9150-4a5f-ab85-4999babc87f6" />
 
 ---
 ### Assignment 4: File & Folder Operations (Practical)
@@ -118,6 +118,6 @@ Perform the following in Git Bash and write the exact commands:
 **Submission:** Written answers
 
 ---
-<img width="2485" height="2266" alt="IMG_20260820_220811" src="https://github.com/user-attachments/assets/173db3ff-719a-439a-80eb-1c1e196a16cc" />
-<img width="2003" height="2997" alt="IMG_20260820_220931" src="https://github.com/user-attachments/assets/aecca5ba-1bed-428c-abe0-989548cb34f4" />
-<img width="2562" height="1594" alt="IMG_20260820_221014" src="https://github.com/user-attachments/assets/649a0d6f-a2a9-4885-964b-2a2c85bcfa0d" />
+<img width="1242" height="1133" alt="IMG_20260820_220811" src="https://github.com/user-attachments/assets/173db3ff-719a-439a-80eb-1c1e196a16cc" />
+<img width="1001" height="1498" alt="IMG_20260820_220931" src="https://github.com/user-attachments/assets/aecca5ba-1bed-428c-abe0-989548cb34f4" />
+<img width="1281" height="748" alt="IMG_20260820_221014" src="https://github.com/user-attachments/assets/649a0d6f-a2a9-4885-964b-2a2c85bcfa0d" />
