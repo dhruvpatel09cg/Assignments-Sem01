@@ -19,7 +19,7 @@
 
 **Answers:** 
 <img width="139" height="58" alt="git config --list" src="https://github.com/user-attachments/assets/7b5267b6-5485-44f9-b8b9-e6c37ae87796" />
-<img width="1152" height="790" alt="GH04 A1 Q4" src="https://github.com/user-attachments/assets/1c877ebb-8c2f-4578-b916-f386fd7a4dce" />
+<img width="233" height="158" alt="GH04 A1 Q4" src="https://github.com/user-attachments/assets/1c877ebb-8c2f-4578-b916-f386fd7a4dce" />
 
 ---
 ### Assignment 2: Understanding Core Concepts
