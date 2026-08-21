@@ -91,5 +91,21 @@ Remote Repository (GitHub)
 3. What is the use of the `-u` flag in `git push -u origin main`?
 
 **Answers:** 
+<img width="1559" height="1600" alt="WhatsApp Image 2026-08-21 at 9 43 46 PM" src="https://github.com/user-attachments/assets/421007af-6054-476e-b7ef-17ec028138ca" />
+
+---
+### Assignment 5: Overall Understanding + Reflection
+
+**Objective:** Test complete understanding of Day 5.
+
+**Tasks:**
+1. Write the correct sequence of commands for the basic workflow after making changes in files.
+2. Answer in 3–5 lines each:
+   - Why should we run `git status` frequently?
+   - What happens if we commit without staging?
+   - What is the difference between local commit and push?
+3. Write **4 key takeaways** from Day 5.
+
+**Answers:**
 
 ---
