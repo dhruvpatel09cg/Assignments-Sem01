@@ -65,5 +65,33 @@ Fill in the missing stages and the commands used at each step.
    - Does `git commit` upload code to GitHub? Explain.
 
 **Answers:** 
+<img width="778" height="800" alt="GH04 A3 Q123" src="https://github.com/user-attachments/assets/cb09afa7-87f2-4fcf-88a8-d1df03fefa4a" />
+
+---
+### Assignment 4: Conceptual Clarity
+
+**Objective:** Test clear understanding of Day 4 concepts.
+
+**Tasks:**
+1. Fill in the blanks:
+   - A ______ is a project folder that also stores the complete history of changes.
+   - By default, every new repository has a branch named ______.
+   - ______ means copying a remote repository to your local computer.
+   - ______ means creating a copy of someone else’s repository under your own GitHub account.
+   - Only ______ files can be committed.
+
+2. Match the following:
+
+| Term            | Meaning                                      |
+|-----------------|----------------------------------------------|
+| Staging Area    |                                              |
+| Commit          |                                              |
+| Clone           |                                              |
+| Fork            |                                              |
+| Remote Repo     |                                              |
+
+3. Write 4 key points you learned in Day 4.
+
+**Answers:** 
 
 ---
