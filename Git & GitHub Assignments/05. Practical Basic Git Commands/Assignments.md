@@ -107,5 +107,7 @@ Remote Repository (GitHub)
 3. Write **4 key takeaways** from Day 5.
 
 **Answers:**
+<img width="900" height="1600" alt="WhatsApp Image 2026-08-21 at 9 56 35 PM" src="https://github.com/user-attachments/assets/472d1849-a3b5-4d24-af34-fe5b380e46a2" />
+<img width="1152" height="1481" alt="WhatsApp Image 2026-08-21 at 9 57 05 PM" src="https://github.com/user-attachments/assets/12bfcbc1-dfa7-425a-aee1-ac1b372c2abd" />
 
 ---
