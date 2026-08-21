@@ -55,9 +55,41 @@
 5. Verify that the file appears on GitHub.
 
 **Submission:**  
-- Screenshot of `git status` (before and after add)  
-- Screenshot of successful commit  
-- Screenshot of successful push  
-- Screenshot of the file on GitHub
+
+<img width="589" height="276" alt="Capture" src="https://github.com/user-attachments/assets/929e7e86-365c-4010-bd13-23512c4ab713" />
+<img width="267" height="89" alt="Capture1" src="https://github.com/user-attachments/assets/8d60a6b3-0004-44c9-b99e-139bc899c09d" />
+<img width="342" height="81" alt="Capture2" src="https://github.com/user-attachments/assets/2944bb10-07a5-495c-9d1a-5c1cff963628" />
+<img width="248" height="92" alt="Capture3" src="https://github.com/user-attachments/assets/b9cf2fc1-6e99-4f60-a043-580f15abc0f8" />
+<img width="665" height="319" alt="Capture4" src="https://github.com/user-attachments/assets/ab9565a5-92a5-42ff-8288-8dd9ed4e774f" />
+
+---
+### Assignment 4: Command Flow & Movement
+
+**Objective:** Understand how files move in Git.
+
+**Tasks:**
+1. Complete the flow:
+
+```
+Working Directory
+       ↓  (Which command?)
+Staging Area
+       ↓  (Which command?)
+Local Repository
+       ↓  (Which command?)
+Remote Repository (GitHub)
+```
+
+2. Fill in the table:
+
+| Command       | From                | To                      |
+|---------------|---------------------|-------------------------|
+| `git add`     |                     |                         |
+| `git commit`  |                     |                         |
+| `git push`    |                     |                         |
+
+3. What is the use of the `-u` flag in `git push -u origin main`?
+
+**Answers:** 
 
 ---
