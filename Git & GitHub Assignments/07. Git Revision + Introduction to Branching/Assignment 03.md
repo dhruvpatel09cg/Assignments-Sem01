@@ -18,9 +18,10 @@
    ```
 4. Verify that the file appears on GitHub.
 
-**Submission:**  
-- Screenshot of `git log --oneline`  
-- Screenshot of successful push  
-- Screenshot of the file on GitHub
+**Answers:**  
+<img width="272" height="53" alt="git log --oneline" src="https://github.com/user-attachments/assets/e8c3bef8-c609-4fbb-8e25-ec4cd4b5df0a" />
+<img width="312" height="106" alt="success git push" src="https://github.com/user-attachments/assets/5e23a8d4-fcbf-40d4-913b-9038f1198619" />
+
+<img width="1374" height="433" alt="image" src="https://github.com/user-attachments/assets/196b2c11-d266-4977-a169-13f6dee07dba" />
 
 ---
