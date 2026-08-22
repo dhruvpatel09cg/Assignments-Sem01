@@ -37,7 +37,7 @@ git push origin main
 
 Submit the following:
 
-1. [**GitHub repository link**] (https://github.com/dhruvpatel09cg/Git-command-practice.git)
+1. [**GitHub repository link**](https://github.com/dhruvpatel09cg/Git-command-practice.git)
 2. **Screenshot of your terminal** showing the output of:
    - `git status` (before and/or after commit)
    - `git log --oneline`
