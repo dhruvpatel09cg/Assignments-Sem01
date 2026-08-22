@@ -33,19 +33,16 @@ git push origin main
 
 ---
 
-#### Submission Requirements:
+**Answers**
 
-Submit the following:
 
 1. [**GitHub repository link**](https://github.com/dhruvpatel09cg/Git-command-practice.git)
-2. **Screenshot of your terminal** showing the output of:
-   - `git status` (before and/or after commit)
-   - `git log --oneline`
-   - Successful `git push`
-3. **Screenshot of the GitHub repository** showing:
-   - The file `practice.txt`
-   - The commit message “Added practice file”
+2. <img width="476" height="216" alt="git status before commit" src="https://github.com/user-attachments/assets/7042145d-6813-496a-a95a-a510ea50c5b3" />
+<img width="482" height="250" alt="git status after commit" src="https://github.com/user-attachments/assets/dc85a903-eff5-4c44-85e9-c52d179fec17" />
+<img width="512" height="150" alt="git log --oneline" src="https://github.com/user-attachments/assets/05506165-0abd-43ef-be4e-403fc5c6cfaa" />
+<img width="522" height="250" alt="successful git push" src="https://github.com/user-attachments/assets/3385d269-8463-457a-bb92-307516838f68" />
 
-**Note:** Make sure your repository is public (or accessible to the mentor) so the submission can be verified.
+3.<img width="728" height="283" alt="repo" src="https://github.com/user-attachments/assets/7981c111-bc79-4fff-b859-6d2b3ce340f3" />
+
 
 ---
