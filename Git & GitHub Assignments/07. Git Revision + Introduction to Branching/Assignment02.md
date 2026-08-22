@@ -14,5 +14,7 @@
    - `git push -u origin main`
 
 4. What does the `-u` flag do in `git push -u origin main`?
+<img width="1055" height="1600" alt="WhatsApp Image 2026-08-22 at 5 31 38 PM" src="https://github.com/user-attachments/assets/7ae12eeb-c40b-4778-a773-c561de5b7d90" />
+<img width="1599" height="1439" alt="WhatsApp Image 2026-08-22 at 5 32 14 PM" src="https://github.com/user-attachments/assets/04b6b1a0-3f54-46c0-8ec2-7fde389bb161" />
 
-**Submission:** Written answers
+**Answers:**
